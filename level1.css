@@ -1,0 +1,93 @@
+body{
+  background-color:floralwhite;
+}
+.nav {
+     background-color:darkblue; 
+     list-style-type: none;
+     text-align: center;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   
+   .nav li {
+     display: inline-block;
+     font-size: 20px;
+     padding: 20px;
+     color:white;
+   }
+   
+.a{
+     background-color:blueviolet; 
+     border: none;
+     color: white;
+      padding: 10px 25px;
+      text-align: end;
+      font-size: 16px;
+      margin: 3px 0px 1px 100px;
+     cursor: pointer;
+     border-radius: 20px;
+}
+
+   .div1{
+
+     background-image: url("https://img.freepik.com/free-photo/rpa-concept-with-blurry-hand-touching-screen_23-2149311914.jpg");
+     height:300px;
+     width: 1510px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     position: relative;
+   }
+   .ct{
+     
+     font-size: 40px;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+   }
+
+   .wh{
+     font-size: 20px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+   }
+   .btn{
+     background-color:blueviolet; 
+     border: none;
+     color: white;
+      padding: 18px 30px;
+      text-align: end;
+      font-size: 16px;
+     cursor: pointer;
+     border-radius: 30px;
+      }
+  
+   .f{
+     display: grid;
+     place-items: center;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-decoration: solid;
+   }
+   .gd{
+    display: grid;
+    place-items: center;
+   }
+   input{
+    border: 3px solid silver;
+    border-radius:8px;
+   }
+   input:hover{
+        background-color:coral;
+        border-radius: 10px;
+        border: 5px solid blueviolet;
+        font-weight: bold;
+        
+   }
+
+   .ann{
+    height: 40px;
+    width: 100%;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid silver;
+    border-radius: 8px;
+   }

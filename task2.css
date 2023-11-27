@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+}
+.calculator{
+    background-color: coral;
+    box-shadow: 0 0 4 4 10px salmon;
+    width: 25%;
+    height: 42%;
+    padding-left: 5%;
+    margin-top: 25rem;
+    margin-left: 34%;
+    border-radius: 22px;
+}
+.calculator h2{
+    font-size: 2rem;
+    margin-top: 12%;
+    text-transform: uppercase;
+}
+.calculator input{
+    margin: 8px;
+    width: 17rem;
+    height: 28px;
+    font-size: 20px;
+}
+
+.ctr-btn{
+    color: antiquewhite;
+    background-color: brown;
+    border-color:blueviolet;
+    width: 40%;
+    height: 8%;
+    font-size: 15px;
+    margin-left: 3%;
+    margin-top: 5%;
+    border-radius: 22px; 
+}
+.ctr-btn:hover{
+    background-color:cornflowerblue;
+    width: 38%;
+    color: black;
+}
+
+.result{
+    text-align: center;
+    margin-left: 8%;
+    font:bold;
+    font-size: 20px;
+}
+
+
+  #colorButton{
+    margin-top: 10%;
+    margin-left: 40%;
+    padding: 15px 65px;
+    background-color: blueviolet;
+    border: 2px solid yellowgreen;
+    outline: none;
+    border-radius: 8px;
+    box-shadow: 0 0 40px blueviolet;
+    font-size: 25px;
+    color: whitesmoke;
+    letter-spacing: 2px;
+    cursor: pointer;
+  }
+  
+  
+  
+  
